@@ -1,0 +1,7 @@
+{
+  "name": "Craft Beer Map Spain",
+  "description": "An interactive map for craft beer lovers in Spain, powered by Gemini Maps Grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
